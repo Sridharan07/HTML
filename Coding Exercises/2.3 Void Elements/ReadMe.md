@@ -1,27 +1,25 @@
-# 2.3 Void Elements
+# 2.4 Movie Ranking Project
 
 ## Objective
 
-Learn how to use HTML void elements such as `<br>` and `<hr>` to structure and format content without requiring closing tags.
+Apply HTML fundamentals by creating a simple movie ranking webpage using headings, paragraphs, and horizontal rules.
 
 ## Description
 
-This exercise demonstrates the use of HTML void elements. The `<br>` element is used to create line breaks, while the `<hr>` element is used to insert a horizontal rule that visually separates sections of content.
+This project demonstrates how to structure a webpage using HTML heading elements (`<h1>` to `<h3>`), paragraph elements (`<p>`), and horizontal rules (`<hr>`). The page showcases a personal ranking of favorite Tamil and Malayalam movies along with brief descriptions.
 
 ## Key Learning
 
-- Void elements do not require closing tags.
-- The `<br>` tag creates a line break within text.
-- The `<hr>` tag creates a thematic break or horizontal line.
-- Void elements help improve content formatting and readability.
+* Organize content using a proper heading hierarchy.
+* Use paragraph elements to provide descriptive content.
+* Separate sections using horizontal rules.
+* Build a complete webpage using basic HTML elements.
 
 ## Output
 
-The webpage displays William Blake's address using line breaks and separates content sections with a horizontal rule.
+The webpage displays a ranked list of favorite Tamil and Malayalam movies with short descriptions in a clean and organized layout.
 
 ## Files
 
-- `index.html` – Exercise implementation
-- `solution.html` – Reference solution
-- `goal.png` – Expected output
-- `ReadMe.md` – Exercise documentation
+* `index.html` – Project implementation
+* `ReadMe.md` – Project documentation
